@@ -200,7 +200,7 @@ header .links:hover span:nth-child(2) {
 }
 .section-four {
   background-color: #f6f6f6;
-  height: 100vh;
+  padding: 50px  0;
 }
 .cards2 {
   display: flex;
@@ -232,7 +232,7 @@ header .links:hover span:nth-child(2) {
 .divide-section-five {
   display: flex;
   flex-direction: row;
-  height: 60vh;
+
   justify-content: space-around;
 }
 .section-five .text {
@@ -326,4 +326,4 @@ header .links:hover span:nth-child(2) {
   font-weight: bold;
   color: var(--maincolor);
 }
-@mediam
+@mediam;
